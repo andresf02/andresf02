@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Johan posada</h1>
-<h3 align="center">I'm johan posada, systems engineering student and web full stack developer 💛.</h3>
+<h1 align="center">Hi 👋, I'm Andres giraldo </h1>
+<h3 align="center">I'm andres, systems engineering student and web full stack developer 💛.</h3>
 
 <br>
 <br>
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Notfound](Notfound)
 
-- 📫 How to reach me **soyjohanposada@gmail.com**
+- 📫 How to reach me **andresgiraldo.kriz@gmail.com**
 
 - 📄 Know about my experiences [Notfound](Notfound)
 
